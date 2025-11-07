@@ -3,6 +3,7 @@
     <nav class="navbar glass">
       <NuxtLink to="/" class="logo-link">
         <NuxtImg src="logo.png" class="logo" alt="Hephaistos Logo" />
+        <span class="nav-link">Hephaistos</span>
       </NuxtLink>
       <div class="nav-links">
         <NuxtLink to="/forge" class="nav-link">
@@ -32,7 +33,6 @@
   top: 0;
   z-index: 1000;
   padding: 1rem 2rem;
-  background: var(--background);
 }
 
 .navbar {
