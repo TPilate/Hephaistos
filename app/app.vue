@@ -1,5 +1,3 @@
 <template>
-  <NuxtLayout>
-    <NuxtPage />
-  </NuxtLayout>
+  <h1>en construction 🚧</h1>
 </template>
